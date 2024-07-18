@@ -1,0 +1,27 @@
+# Flask for backend development
+Flask==2.1.1
+Flask-Cors==3.0.10
+
+# Libraries for Speech Recognition
+SpeechRecognition==3.8.1
+pyaudio==0.2.11
+
+# Libraries for Text-to-Speech
+pyttsx3==2.90
+
+# Libraries for web scraping
+beautifulsoup4==4.10.0
+requests==2.27.1
+
+# Hugging Face transformers for NLP models
+transformers==4.18.0
+torch==1.11.0
+
+# Google Search API
+googlesearch-python==1.1.0
+
+# YouTube Search API
+youtubesearchpython==1.6.5
+
+# React libraries (typically installed via package.json for the frontend)
+react-scripts==4.0.3
